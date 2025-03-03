@@ -1,0 +1,31 @@
+* {
+    background-image: url("../Images/Fond/102391469_p0.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Segoe Print', cursive, sans-serif;
+    font-size: 20px;
+}
+header h1 {
+    font-weight: 700;
+    margin: 0;
+    font-size: 40px;
+    color: purple;
+    text-align: center;
+    align-items: center;
+}
+
+.underline {
+    display: inline-block;
+    margin: 0px auto;
+    padding: 0 10px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 30px;
+}
+.information {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe Print', cursive, sans-serif;
+    color: black;
+}

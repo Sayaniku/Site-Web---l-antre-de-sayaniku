@@ -1,0 +1,48 @@
+* {
+    background-image: url("../Images/Fond/102391469_p0.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Segoe Print', cursive, sans-serif;
+    font-size: 20px;
+}
+
+header h1 a {
+    font-weight: 700;
+    margin: 0 auto;
+    font-size: 40px;
+    color: purple;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.underline {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0 10px;
+    text-align: center;
+    font-weight: 100;
+}
+
+.information {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Segoe Print', cursive, sans-serif;
+    color: red;
+}
+
+p, li {
+    color: aqua;
+}
+
+strong {
+    color: red;
+    font-size: 25px;
+}
+
+.bleh {
+    width: 100%;
+    max-width: max-content;
+    object-fit: contain;
+}
